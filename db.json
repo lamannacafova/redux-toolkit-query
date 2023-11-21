@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leman"
+    },
+    {
+      "name": "Pamela Walter IV",
+      "id": 2
+    },
+    {
+      "name": "Angel Bernier",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Handcrafted Fresh Chips",
+      "id": 17
+    },
+    {
+      "userId": 2,
+      "title": "Bespoke Plastic Ball",
+      "id": 23
+    },
+    {
+      "userId": 1,
+      "title": "Practical Steel Shirt",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Fresh Tuna",
+      "id": 25
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7812403796377600",
+      "id": 2
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5847316485373952",
+      "id": 3
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=1004417929183232",
+      "id": 4
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4997666905784320",
+      "id": 5
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4521753114050560",
+      "id": 6
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=268846902542336",
+      "id": 7
+    },
+    {
+      "albumId": 17,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4410625147011072",
+      "id": 11
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2193174592225280",
+      "id": 13
+    },
+    {
+      "albumId": 23,
+      "url": "https://loremflickr.com/150/150/abstract?lock=4089349062787072",
+      "id": 14
+    }
+  ]
+}

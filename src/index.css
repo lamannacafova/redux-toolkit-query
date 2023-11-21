@@ -1,0 +1,27 @@
+.topArrangement{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+.panelDiv{
+    background-color: lightgrey;
+    border-radius: 30px;
+    padding: 2px 0;
+    margin: 10px;
+}
+.photoDiv{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+.deleteDiv{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: #fff;
+    font-size: 30px;
+}
